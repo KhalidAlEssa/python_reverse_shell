@@ -1,5 +1,5 @@
 import socket
-host = "192.168.1.12"
+host = "Server_ip"
 port = 4444
 buf = 1024
 s = socket.socket()
