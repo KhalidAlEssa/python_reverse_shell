@@ -1,7 +1,4 @@
 # python_reverse_shell
-## reverese tcp with socket python!!
-
-You Can Send Commands !
 
 # pic
 
